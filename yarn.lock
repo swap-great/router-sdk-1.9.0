@@ -1575,10 +1575,9 @@
   resolved "https://registry.npmjs.org/@uniswap/lib/-/lib-4.0.1-alpha.tgz"
   integrity sha512-f6UIliwBbRsgVLxIaBANF6w09tYqc6Y/qXdsrbEmXHyFA7ILiKrIwRFXe1yOg8M3cksgVsO9N7yuL2DdCGQKBA==
 
-"@uniswap/sdk-core@^4.2.0":
+"@uniswap/sdk-core@^4.2.0", "@uniswap/sdk-core@https://github.com/swap-great/sdk-core":
   version "4.2.0"
-  resolved "https://registry.yarnpkg.com/@uniswap/sdk-core/-/sdk-core-4.2.0.tgz#9930f133baec9c1118d891ebf8fcba7f7efc153d"
-  integrity sha512-yXAMLHZRYYuh6KpN2nOlLTYBjGiopmI9WUB4Z0tyNkW4ZZub54cUt22eibpGbZAhRAMxclox9IPIs6wwrM3soQ==
+  resolved "https://github.com/swap-great/sdk-core#e28e9afb6474213f10d994bcb4a7d7481eaa83a7"
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
